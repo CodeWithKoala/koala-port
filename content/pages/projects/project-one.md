@@ -7,7 +7,7 @@ client: Awesome client
 description: >-
   MiniMod is a work-in-progress security bot designed to help Discord server
   owners maintain a safe and organized community. With a focus on automating
-  moderation tasks, MiniMod aims to detect and prevent disruptive behavior such
+  moderation tasks, MiniMod aims to detect and prevent disruptive behaviour such
   as spamming, inappropriate language, and unwanted links.
 featuredImage:
   type: ImageBlock
