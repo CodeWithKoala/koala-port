@@ -11,7 +11,7 @@ description: >-
   as spamming, inappropriate language, and unwanted links.
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/Designer.jpeg
   altText: Project thumbnail image
 media:
   type: ImageBlock
