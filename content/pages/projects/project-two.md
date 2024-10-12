@@ -17,15 +17,111 @@ media:
   url: /images/bg2.jpg
   altText: Project image
 ---
+This **Rock-Paper-Scissors** game, developed by Koala, is a fun and interactive web-based version of the classic hand game. Built with Python and soon to be converted to JavaScript for web deployment, this project introduces users to a lively gaming experience with animated visuals and responsive gameplay. Hosted on GitHub at [Rock-Paper-Scissors Game](https://github.com/MistrKoala/rock-paper-scissors-game), it offers a fresh take on this timeless challenge.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+### Game Overview
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+Rock-Paper-Scissors is a simple yet highly engaging game traditionally played between two players. Each player simultaneously forms one of three shapes with their hand:
 
-> “Everybody should learn to program a computer, because it teaches you how to think.”
+*   **Rock**: Represented by a closed fist.
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+*   **Paper**: Represented by an open hand.
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+*   **Scissors**: Represented by two fingers extended like a pair of scissors.
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+The outcome is determined by these simple rules:
+
+*   Rock crushes Scissors.
+
+*   Scissors cuts Paper.
+
+*   Paper covers Rock.
+
+Koala’s version of the game lets you play against an AI opponent. Every round, the player selects one of the three moves, while the AI randomly selects its own. The winner is determined based on the standard rules, and the game tracks your overall performance across rounds.
+
+### Features
+
+1.  **Player vs AI Gameplay**
+    In this version of the game, you face off against a computer-controlled AI opponent. The AI’s move is generated randomly, providing a fair and balanced challenge every time you play. There is no bias in the AI’s choices, so the player must rely on strategy and a bit of luck to win.
+
+2.  **Score Tracking System**
+    The game tracks both the player’s and the AI’s scores across multiple rounds. Each time a player wins, their score increases by one, and likewise for the AI. This allows players to compete over a series of rounds to see who can win the most games, adding an element of competition and progression.
+
+3.  **Animated Player Choices**
+    One of the standout features Koala is planning for the web version is **animated visuals** for each of the player and AI choices:
+
+    *   When the player selects Rock, Paper, or Scissors, an animated image corresponding to their choice appears on the screen.
+
+    *   The AI’s choice is revealed similarly through an animation, making each round more dynamic and visually engaging.
+
+4.  **User-Friendly Interface**
+    The game is designed to be simple and intuitive for users of all ages:
+
+    *   A **clean layout** ensures that all options are easy to find, with clearly labeled buttons for Rock, Paper, and Scissors.
+
+    *   A **central game area** displays the player’s and AI’s choices with clear animations and feedback on who won each round.
+
+    *   **Score counters** are prominently displayed, showing the ongoing tally for both the player and AI, so users can easily keep track of their performance.
+
+5.  **Responsive Design**
+    The upcoming JavaScript version will be fully **responsive**, ensuring that the game looks and works beautifully across different devices:
+
+    *   On desktop, the game will feature larger images and animations, with ample space for the buttons and scores.
+
+    *   On mobile, the layout will adjust for touch-friendly controls, ensuring that the game is just as easy to play on smaller screens.
+
+6.  **Smooth Animations and Interactivity**
+    One of the main enhancements in the JavaScript version will be smooth animations that accompany player and AI choices:
+
+    *   When a round starts, a countdown animation will build anticipation, showing both players’ hands ready to choose.
+
+    *   After the choice is made, the hands transform into Rock, Paper, or Scissors with a slick animation, making the experience more engaging.
+
+7.  **Results Feedback**
+    At the end of each round, the game provides **clear feedback** on the outcome:
+
+    *   A message is displayed announcing whether the player won, lost, or tied, adding a fun and competitive element to the game.
+
+    *   The result is highlighted with different colors or animations to make it clear who came out on top.
+
+8.  **Future Expansion: Player Customization**
+    In future iterations of the game, Koala plans to introduce **customization options** for the player:
+
+    *   Players may be able to choose different themes for the Rock, Paper, and Scissors images, such as using different characters, objects, or colors.
+
+    *   Additional sound effects or background music may be added to enhance the atmosphere of the game.
+
+### Technologies Used
+
+1.  **Python (Original Version)**
+    The original version of the Rock-Paper-Scissors game was built using Python, a versatile and easy-to-learn programming language. This initial version served as a prototype, providing a simple terminal-based interface for gameplay. Python’s built-in random module was used to generate the AI’s moves.
+
+2.  **JavaScript (Web Version)**
+    Koala is now converting the game to JavaScript to create a fully web-based experience. JavaScript allows for dynamic interactivity within web browsers and will be used to handle:
+
+    *   Player input (detecting clicks on Rock, Paper, or Scissors).
+
+    *   AI move generation.
+
+    *   Animations for the choices and results.
+
+    *   Score tracking and game logic.
+
+3.  **HTML and CSS**
+    The game’s structure is created with **HTML**, providing a solid foundation for the user interface. The game layout, buttons, and scoreboards are organized using HTML’s semantic elements. **CSS** will be used extensively to style the game, making it visually appealing and interactive:
+
+    *   Buttons for selecting Rock, Paper, or Scissors will be styled to stand out and be easily clickable.
+
+    *   Animations, transitions, and hover effects will be implemented using CSS to provide smooth visual feedback during gameplay.
+
+4.  **GitHub Hosting and Collaboration**
+    The game is open-source and hosted on Koala’s GitHub page, where players and developers alike can explore the code and contribute to its development. You can check out the source code and track updates at [Rock-Paper-Scissors Game GitHub](https://github.com/MistrKoala/rock-paper-scissors-game).
+
+### Project Goals
+
+Koala’s primary goal with this project is to **create an interactive and engaging game** that anyone can enjoy, regardless of their skill level. By incorporating animations, score tracking, and responsive design, the game is designed to provide a smooth and enjoyable user experience.
+
+This project also serves as a **learning platform** for Koala, allowing them to enhance their skills in front-end web development, particularly in JavaScript, HTML, and CSS. The process of converting a Python-based terminal game into a full-fledged web application provides valuable experience in adapting logic and enhancing user experience.
+
+
+
