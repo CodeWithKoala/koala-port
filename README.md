@@ -1,53 +1,55 @@
-# Netlify Developer Portfolio Starter (auto-annotated)
 
-![Developer Portfolio](https://assets.stackbit.com/docs/personal-nextjs-starter-thumb.png)
+# Hi there, I'm Koala 👋
 
-This is a full-fledged portfolio website built with Next.js, Tailwind CSS, [visual editor](https://docs.netlify.com/visual-editor/overview/) and the [Git Content Source](https://docs.netlify.com/create/content-sources/git/).
+## About Me
+- 🌱 Currently learning Rust.
+- 💼 I’m a Software Engineer Student at St Mary's University.
+- 📫 How to reach me: mistrkoaladevelopment@gmail.com or MistrKoala on Discord.
+- 🌱 Lua is the best language
 
-The codebase showcases **how to apply annotations at scale**, meaning: how to make much of your components [highlightable in the visual editor](https://docs.netlify.com/visual-editor/visual-editing/inline-editor/) through data attributes without manually adding code throughout the codebase.
 
-**This is achieved by:**
 
-1. Adding an annotation property to the content objects at they're loaded (see `src/utils/content.ts`)
-1. When rendering the page, each content sub-object is dynamically matched to the appropriate component. At this point, wrap each component with an annotation, based on the abovementioned content property. See `src/components/components-registry.tsx`.
 
-**⚡ Demo:** [auto-annotated-portfolio.netlify.app](https://auto-annotated-portfolio.netlify.app)
+## Skills
+As a passionate developer with expertise in various programming languages, frameworks, and tools, I continuously strive to enhance my skills and deliver high-quality projects. I love everything Lua!
 
-## Deploying to Netlify
+### Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff) 
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000) 
+![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=ffffff) 
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=ffffff) 
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=ffffff) 
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=ffffff) 
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff) 
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=ffffff) 
 
-If you click "Deploy to Netlify" button, it will create a new repo for you that looks exactly like this one, and sets that repo up immediately for deployment on Netlify.
+### Frameworks
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff) 
+![Discord.js](https://img.shields.io/badge/-Discord.js-5865F2?style=flat-square&logo=discord&logoColor=ffffff)
+![PyCord](https://img.shields.io/badge/-PyCord-ff9c1b?style=flat-square&logo=python&logoColor=ffffff)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=ffffff) 
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/auto-annotated-portfolio)
 
-## Getting Started
 
-The typical development process is to begin by working locally. Clone this repository, then run `npm install` in its root directory.
+### Tools
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff) 
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![Roblox Studio](https://img.shields.io/badge/-Roblox%20Studio-FF0000?style=flat-square&logo=roblox&logoColor=ffffff)
+![Unity](https://img.shields.io/badge/-Unity-100000?style=flat-square&logo=unity&logoColor=ffffff)
+![Steam](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=steam&logoColor=ffffff)
 
-Run the Next.js development server:
 
-```txt
-cd auto-annotated-portfolio
-npm run dev
-```
 
-Install the [Netlify visual editor CLI](https://www.npmjs.com/package/@stackbit/cli). Then open a new terminal window in the same project directory and run the Netlify visual editor dev server:
 
-```txt
-npm install -g @stackbit/cli
-stackbit dev
-```
 
-This outputs your own Netlify visual editor URL. Open this, register or sign in, and you will be directed to Netlify's visual editor for your new project.
+ 
 
-![Next.js Dev + Netlify visual editor dev](https://assets.stackbit.com/docs/next-dev-stackbit-dev.png)
 
-## Next Steps
 
-Here are a few suggestions on what to do next if you're new to Netlify Visual Editor:
 
-- Learn [how Netlify Visual Editor works](https://docs.netlify.com/visual-editor/overview/)
-- Check [Netlify visual editor reference documentation](https://visual-editor-reference.netlify.com/)
 
-## Support
+## Contributions
+- Working on something big...
 
-If you get stuck along the way, get help in our [support forums](https://answers.netlify.com/).
+
