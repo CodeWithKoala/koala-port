@@ -13,14 +13,28 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >+
+      ## Hey there! I'm Koala, a passionate web developer and software
+      enthusiast. With a growing skill set in Python, JavaScript, HTML, Lua and
+      CSS, I love creating dynamic and interactive web experiences. My work
+      ranges from developing fun projects like real-time games to building
+      security bots and practical tools like scientific calculators.
+
+
+      When I'm not coding, I'm always exploring new technologies and improving
+      my portfolio. Check out my projects on GitHub, where you can see my
+      evolution as a developer. I'm driven by curiosity, creativity, and a
+      constant desire to learn and innovate.
+
+
+      Feel free to connect with me for collaborations or just to chat about
+      coding!
+
+
+
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/gallery-1.jpg
       altText: Hero image
     styles:
       self:
@@ -58,53 +72,6 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
-  - type: MediaGallerySection
-    colors: colors-f
-    subtitle: 'I worked with these folks:'
-    images:
-      - type: ImageBlock
-        url: /images/logo1.svg
-        altText: Logo one
-        caption: Logo one
-      - type: ImageBlock
-        url: /images/logo2.svg
-        altText: Logo two
-        caption: Logo two
-      - type: ImageBlock
-        url: /images/logo3.svg
-        altText: Logo three
-        caption: Logo three
-      - type: ImageBlock
-        url: /images/logo4.svg
-        altText: Logo four
-        caption: Logo four
-      - type: ImageBlock
-        url: /images/logo5.svg
-        altText: Logo five
-        caption: Logo five
-    spacing: 3
-    columns: 5
-    aspectRatio: auto
-    showCaption: false
-    enableHover: false
-    styles:
-      self:
-        width: wide
-        height: auto
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
   - type: DividerSection
     styles:
       self:
@@ -207,21 +174,21 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: Lua
       - type: Label
         label: React
       - type: Label
-        label: Microsoft Office
+        label: CSS
       - type: Label
-        label: Next.js
+        label: Python
       - type: Label
-        label: Netlify
+        label: JavaScript
       - type: Label
-        label: Pancakes
+        label: C
       - type: Label
         label: C++
       - type: Label
-        label: Swift
+        label: Discord.js
   - type: DividerSection
     styles:
       self:
@@ -239,7 +206,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+      [mistrkoaladevelopment@gmail.com](mailto:thisismyemail.@myemail.me)
   - type: DividerSection
     styles:
       self:
@@ -257,26 +224,11 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
+        text: |+
           **Current**
 
-          * freelance @freelance.me
+          *   software engineering student  @ st marys university
 
-          **2018-2021**
-
-          * fullstack at this startup
-
-          **2015**
-
-          * senior front-end at this place
-
-          **2013**
-
-          * intern developer at a big company
-
-          **2011**
-
-          * flipping burgers
         styles:
           self:
             textAlign: left
@@ -287,18 +239,13 @@ sections:
               - pr-0
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: |+
+          **2023-Current**
 
-          * ba computer sciense at a semi fancy school
+          *   BSc in Software Engineering and Data Science
 
-          **2014**
 
-          * react certificate somewhere
 
-          **2011**
-
-          * my highschool
         styles:
           self:
             textAlign: left
