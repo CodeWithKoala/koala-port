@@ -178,7 +178,7 @@ sections:
       - type: Label
         label: React
       - type: Label
-        label: Microsoft Office
+        label: CSS
       - type: Label
         label: Next.js
       - type: Label
