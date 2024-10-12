@@ -10,8 +10,7 @@ description: >-
   against an AI opponent.
 featuredImage:
   type: ImageBlock
-  url: >-
-    /images/png-clipart-rock-paper-scissors-game-money-scissors-text-dragon-thumbnail.png
+  url: /images/Designer.jpeg
   altText: Project thumbnail image
 media:
   type: ImageBlock
