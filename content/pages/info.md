@@ -180,7 +180,7 @@ sections:
       - type: Label
         label: CSS
       - type: Label
-        label: Next.js
+        label: Python
       - type: Label
         label: Netlify
       - type: Label
