@@ -4,7 +4,10 @@ title: Rock Paper Scissors Game
 colors: colors-a
 date: '2021-12-20'
 client: Awesome client
-description: ''
+description: >-
+  Rock-Paper-Scissors is a simple yet classic hand game that is often used as a
+  selection method. This project is a web-based version where users can play
+  against an AI opponent.
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
