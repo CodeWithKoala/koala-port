@@ -11,7 +11,7 @@ description: >-
   about the world, this game will put your skills to the test.
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/unnamed.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
