@@ -14,7 +14,8 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: >-
+    /images/png-clipart-rock-paper-scissors-game-money-scissors-text-dragon-thumbnail.png
   altText: Project image
 ---
 This **Rock-Paper-Scissors** game, developed by Koala, is a fun and interactive web-based version of the classic hand game. Built with Python and soon to be converted to JavaScript for web deployment, this project introduces users to a lively gaming experience with animated visuals and responsive gameplay. Hosted on GitHub at [Rock-Paper-Scissors Game](https://github.com/MistrKoala/rock-paper-scissors-game), it offers a fresh take on this timeless challenge.
