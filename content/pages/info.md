@@ -182,7 +182,7 @@ sections:
       - type: Label
         label: Python
       - type: Label
-        label: Netlify
+        label: JavaScript
       - type: Label
         label: Pancakes
       - type: Label
