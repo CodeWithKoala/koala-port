@@ -14,8 +14,8 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m Koala a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+      I’m Koala a software engineer, novice web dev, student and a bunch of
+      other impressive titles and buzz words.
     subtitle: >-
       Hi, I'm Koala! I'm a passionate software developer with a growing
       expertise in Python, JavaScript, Lua and web development. Over the past
