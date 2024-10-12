@@ -13,11 +13,25 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >+
+      ## Hey there! I'm Koala, a passionate web developer and software
+      enthusiast. With a growing skill set in Python, JavaScript, HTML, Lua and
+      CSS, I love creating dynamic and interactive web experiences. My work
+      ranges from developing fun projects like real-time games to building
+      security bots and practical tools like scientific calculators.
+
+
+      When I'm not coding, I'm always exploring new technologies and improving
+      my portfolio. Check out my projects on GitHub, where you can see my
+      evolution as a developer. I'm driven by curiosity, creativity, and a
+      constant desire to learn and innovate.
+
+
+      Feel free to connect with me for collaborations or just to chat about
+      coding!
+
+
+
     media:
       type: ImageBlock
       url: /images/gallery-1.jpg
