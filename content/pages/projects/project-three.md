@@ -7,7 +7,7 @@ client: Awesome client
 description: >-
   Test your knowledge of the world in this fast-paced real-time country quiz!
   Challenge yourself with questions about geography, capitals, flags, and other
-  country-related trivia. Whether you're a seasoned traveler or just curious
+  country-related trivia. Whether you're a seasoned traveller or just curious
   about the world, this game will put your skills to the test.
 featuredImage:
   type: ImageBlock
