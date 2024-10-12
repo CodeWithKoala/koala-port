@@ -188,7 +188,7 @@ sections:
       - type: Label
         label: C++
       - type: Label
-        label: Swift
+        label: Discord.js
   - type: DividerSection
     styles:
       self:
