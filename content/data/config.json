@@ -78,7 +78,7 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "850-123-5021",
+            "phoneNumber": "MistrKoala",
             "phoneAltText": "My phone number",
             "email": "mistrkoaladevelopment@gmail.com",
             "emailAltText": "My email",
