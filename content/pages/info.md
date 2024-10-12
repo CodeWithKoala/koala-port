@@ -184,7 +184,7 @@ sections:
       - type: Label
         label: JavaScript
       - type: Label
-        label: Pancakes
+        label: C
       - type: Label
         label: C++
       - type: Label
