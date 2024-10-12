@@ -75,16 +75,6 @@
                 "altText": "Netlify templates"
             }
         ],
-        "contacts": {
-            "type": "ContactBlock",
-            "title": "Contact details",
-            "phoneNumber": "MistrKoala",
-            "phoneAltText": "My discord",
-            "email": "mistrkoaladevelopment@gmail.com",
-            "emailAltText": "My email",
-            "address": "",
-            "addressAltText": "My address"
-        },
         "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
         "styles": {
             "self": {
