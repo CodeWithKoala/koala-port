@@ -21,7 +21,7 @@ sections:
       expertise in Python, JavaScript, Lua and web development. Over the past
       year, I've been working on various projects, including a
       Rock-Paper-Scissors Game and a real-time country quiz, continuously
-      expanding my knowledge and skills in programming.I enjoy exploring
+      expanding my knowledge and skills in programming. I enjoy exploring
       different languages like Rust and Lua, and I'm always eager to tackle new
       challenges. My goal is to create interactive and dynamic web applications
       that solve real-world problems while delivering a seamless user
