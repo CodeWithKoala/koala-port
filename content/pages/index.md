@@ -18,17 +18,17 @@ sections:
       impressive titles and buzz words.
     subtitle: >-
       Hi, I'm Koala! I'm a passionate software developer with a growing
-      expertise in Python, JavaScript, and web development. Over the past year,
-      I've been working on various projects, including a Rock-Paper-Scissors
-      Game and a real-time country quiz, continuously expanding my knowledge and
-      skills in programming.I enjoy exploring different languages like Rust and
-      Lua, and I'm always eager to tackle new challenges. My goal is to create
-      interactive and dynamic web applications that solve real-world problems
-      while delivering a seamless user experience. Currently, I'm focused on
-      building responsive websites and refining my portfolio, all while learning
-      new technologies to take my development skills to the next level.Check out
-      my projects and feel free to reach out if you'd like to collaborate or
-      share ideas!
+      expertise in Python, JavaScript, Lua and web development. Over the past
+      year, I've been working on various projects, including a
+      Rock-Paper-Scissors Game and a real-time country quiz, continuously
+      expanding my knowledge and skills in programming.I enjoy exploring
+      different languages like Rust and Lua, and I'm always eager to tackle new
+      challenges. My goal is to create interactive and dynamic web applications
+      that solve real-world problems while delivering a seamless user
+      experience. Currently, I'm focused on building responsive websites and
+      refining my portfolio, all while learning new technologies to take my
+      development skills to the next level. Check out my projects and feel free
+      to reach out if you'd like to collaborate or share ideas!
     styles:
       self:
         height: auto
