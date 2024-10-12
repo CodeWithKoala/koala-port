@@ -227,7 +227,7 @@ sections:
         text: |+
           **Current**
 
-          *   software engineering intern  @ amazon
+          *   software engineering student  @ st marys university
 
         styles:
           self:
