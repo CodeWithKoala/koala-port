@@ -14,12 +14,21 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
+      I’m Koala a developer, digital artist, consultant and a bunch of other
       impressive titles and buzz words.
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Hi, I'm Koala! I'm a passionate software developer with a growing
+      expertise in Python, JavaScript, Lua and web development. Over the past
+      year, I've been working on various projects, including a
+      Rock-Paper-Scissors Game and a real-time country quiz, continuously
+      expanding my knowledge and skills in programming.I enjoy exploring
+      different languages like Rust and Lua, and I'm always eager to tackle new
+      challenges. My goal is to create interactive and dynamic web applications
+      that solve real-world problems while delivering a seamless user
+      experience. Currently, I'm focused on building responsive websites and
+      refining my portfolio, all while learning new technologies to take my
+      development skills to the next level. Check out my projects and feel free
+      to reach out if you'd like to collaborate or share ideas!
     styles:
       self:
         height: auto
@@ -84,7 +93,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: 'Projects'
+    subtitle: Projects
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f

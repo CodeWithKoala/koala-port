@@ -1,14 +1,17 @@
 ---
 type: ProjectLayout
-title: One more cool project
+title: Country Quiz Game
 colors: colors-a
 date: '2022-01-22'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+  Test your knowledge of the world in this fast-paced real-time country quiz!
+  Challenge yourself with questions about geography, capitals, flags, and other
+  country-related trivia. Whether you're a seasoned traveller or just curious
+  about the world, this game will put your skills to the test.
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/unnamed.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
